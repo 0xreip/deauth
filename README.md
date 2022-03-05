@@ -1,7 +1,6 @@
 # deauth
-<_desautenticador de dispositivos em rede.
-script com o objetivo de desautenticar dispositivos conectado em uma rede wireless (WI-FI), 100% escrito na Lang de alto nível "PYTHON"_>
-
+*_desautenticador de dispositivos em rede.
+script com o objetivo de desautenticar dispositivos conectado em uma rede wireless (WI-FI), 100% escrito na Lang de alto nível "PYTHON"_*
 
 
 
